@@ -1,3 +1,3 @@
 Download Plugin：
-- FoxyProxy
+- FoxyProxy (Standard)
 - Wappalyzer
