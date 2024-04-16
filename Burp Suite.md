@@ -1,0 +1,3 @@
+Download Plugin：
+- FoxyProxy
+- Wappalyzer
